@@ -1,4 +1,4 @@
-package com.springbootdev.reactspringbootcrudapp;
+package com.react.springboot.crud.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
